@@ -444,6 +444,10 @@ body {
   background: rgba(5, 8, 20, 0.3);
 }
 
+.projects a {
+  text-decoration: none;
+}
+
 .projectScroller {
   overflow: hidden;
   width: 100%;
@@ -595,9 +599,8 @@ body {
 .achievements {
   min-height: 100vh;
   background: transparent;
-  
 }
-.achiee{
+.achiee {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -899,14 +902,14 @@ h2.show .letter,
   }
 }
 
-.achiCard img{
+.achiCard img {
   height: 500px;
   width: auto;
 }
-.achiCard a{
+.achiCard a {
   text-decoration: none;
 }
-.achiCard .abt{
+.achiCard .abt {
   width: 100%;
   height: auto;
   padding: 5px;
